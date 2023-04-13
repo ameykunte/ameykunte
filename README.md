@@ -6,7 +6,7 @@ Student | Researcher | Developer
 
 * 🌍  I'm based in Hyderabad
 * 🖥️  See my portfolio at [My Github](http://github.com/ameykunte)
-* ✉️  You can contact me at [ameykuntesoc@gmail.com](mailto:ameykuntesoc@gmail.com)
+* ✉️  You can contact me at [ameykcodes@gmail.com](mailto:ameykuntesoc@gmail.com)
 * 🧠  I'm learning MERN
 * 🤝  I'm open to collaborating on Interesting projects and scripts
 
