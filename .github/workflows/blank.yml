@@ -1,0 +1,39 @@
+name: Post Thought of the Day
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+
+jobs:
+  post-thought-of-the-day:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Install Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14.x'
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Choose Random Quote
+      id: random-quote
+      run: |
+        QUOTES=$(cat quotes.json)
+        LENGTH=$(echo $QUOTES | jq length)
+        INDEX=$((RANDOM % LENGTH))
+        QUOTE=$(echo $QUOTES | jq -r .[$INDEX].quote)
+        AUTHOR=$(echo $QUOTES | jq -r .[$INDEX].author)
+        echo "::set-output name=quote::$QUOTE"
+        echo "::set-output name=author::$AUTHOR"
+
+    - name: Update README
+      run: |
+        QUOTE="${{ steps.random-quote.outputs.quote }}"
+        AUTHOR="${{ steps.random-quote.outputs.author }}"
+        sed -i "1s/^/### Thought of the Day\n\n$QUOTE\n\n-- $AUTHOR\n\n/" README.md
+      working-directory: ameykunte/ameykunte
