@@ -9,7 +9,7 @@ I'm a Student | Researcher | Developer
 * ✉️  You can contact me at [ameykcodes@gmail.com](mailto:ameykuntesoc@gmail.com)
 * 🧠  I'm learning MERN,some ML basics and getting better at DSA
 * 🤝  I'm open to collaborating on Interesting projects and scripts
-
+--------------------------------
 ### Skills
 
 
@@ -26,11 +26,11 @@ I'm a Student | Researcher | Developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
+--------------------------------
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Toad#9566" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ameykunte" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ameyteur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ameyteur" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+--------------------------------
 ### Badges
 
 <b>My GitHub Stats</b>
