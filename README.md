@@ -26,6 +26,8 @@ I'm a Student | Researcher | Developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+
+
 ----------------------------------------------------------------------------------------
 ### Socials
 
