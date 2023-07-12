@@ -44,5 +44,11 @@ My GitHub Stats</p>
 <a href="http://www.github.com/ameykunte"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ameykunte&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="https://github.com/ameykunte" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameykunte&langs_count=9&size_weight=0.75&count_weight=0.25&layout=donut&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+---
+
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
