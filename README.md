@@ -49,6 +49,7 @@ My GitHub Stats</p>
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Git Commits and Pushes in Linux with a Bash Script](https://ameykunte.medium.com/automate-git-commits-and-pushes-in-linux-with-a-bash-script-1a0bfadfedb8?source=rss-f50cd0c2f174------2)
 <!-- BLOG-POST-LIST:END -->
 
 
