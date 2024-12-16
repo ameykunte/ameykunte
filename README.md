@@ -3,8 +3,6 @@ Hi! I'm Amey
 
 I'm a Student | Researcher | Developer
 
-https://doselect.com/gateways/test?access_code=W1NJD3WlFz2ka15nBKR65TTFmuxmt1fvonT9W%2Bpwi4Kt92oiL9V/SrJzuypHe%2BRD%2BeEAlLLfb1YAAzS7G8b0QRrYCFkWWd3azkmXc7/W05A%3D
-
 --------------------------------
 
 * 🌍  I'm based in Hyderabad,India
