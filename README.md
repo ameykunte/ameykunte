@@ -4,7 +4,7 @@ Hi! I'm Amey
 I'm a Student | Researcher | Developer
 
 
-https://ams.hirepro.in/interview/#/home/eyJsdCI6ICJUa246ZGRmODRlYzEtNTE3Ni00ZDQ3LWJlMTUtYWVlZDE1MWNhMjEyIn0=
+
 --------------------------------
 
 * 🌍  I'm based in Hyderabad,India
